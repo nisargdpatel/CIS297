@@ -1,0 +1,11 @@
+C:\Users\Nisarg\Documents\GitHub\CIS297\Intro\Intro\bin\Debug\netcoreapp2.0\Intro.deps.json
+C:\Users\Nisarg\Documents\GitHub\CIS297\Intro\Intro\bin\Debug\netcoreapp2.0\Intro.runtimeconfig.json
+C:\Users\Nisarg\Documents\GitHub\CIS297\Intro\Intro\bin\Debug\netcoreapp2.0\Intro.runtimeconfig.dev.json
+C:\Users\Nisarg\Documents\GitHub\CIS297\Intro\Intro\bin\Debug\netcoreapp2.0\Intro.dll
+C:\Users\Nisarg\Documents\GitHub\CIS297\Intro\Intro\bin\Debug\netcoreapp2.0\Intro.pdb
+C:\Users\Nisarg\Documents\GitHub\CIS297\Intro\Intro\obj\Debug\netcoreapp2.0\Intro.csprojResolveAssemblyReference.cache
+C:\Users\Nisarg\Documents\GitHub\CIS297\Intro\Intro\obj\Debug\netcoreapp2.0\Intro.csproj.CoreCompileInputs.cache
+C:\Users\Nisarg\Documents\GitHub\CIS297\Intro\Intro\obj\Debug\netcoreapp2.0\Intro.AssemblyInfoInputs.cache
+C:\Users\Nisarg\Documents\GitHub\CIS297\Intro\Intro\obj\Debug\netcoreapp2.0\Intro.AssemblyInfo.cs
+C:\Users\Nisarg\Documents\GitHub\CIS297\Intro\Intro\obj\Debug\netcoreapp2.0\Intro.dll
+C:\Users\Nisarg\Documents\GitHub\CIS297\Intro\Intro\obj\Debug\netcoreapp2.0\Intro.pdb
